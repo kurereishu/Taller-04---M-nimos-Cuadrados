@@ -4,7 +4,7 @@ Este repositorio contiene los siguientes archivos desarrollados:
 
 ## Archivos
 
-- [literal a.py](./literal a.py)
-- [ literal b.py](./literal b.py)
-- [taller04.ipynb](./taller04.ipynb)
+- [literal a.py](literal a.py)
+- [literal b.py](literalb.py)
+- [taller04.ipynb](taller04.ipynb)
 
