@@ -47,7 +47,7 @@ def ajustar_parabola():
 
     fit_line.set_data(x_fit, y_fit)
     scatter_plot.set_offsets(np.column_stack((xs, ys_copy)))
-    movable_plot.set_data(movable_point[0], movable_point[1])
+    movable_plot.set_data([movable_point[0]], [movable_point[1]])  # <- CORREGIDO
     fig.canvas.draw_idle()
 
 def on_press(event):
